@@ -20,7 +20,7 @@ On Mac OS X you may use brew or macports respectively.
 
 Backup and remove your ~/.vim (if any). Once everything is setup run:
 
-    cd && git clone https://github.com/nettrino/vimconf.git ~/.vim
+    cd && git clone https://github.com/daviddhas/Vonderful-vim.git ~/.vim
     ln -s ~/.vim/vimrc ~/.vimrc
     cd ~/.vim && make
 
